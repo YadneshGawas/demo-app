@@ -1,1 +1,6 @@
-node_modules/\n.venv/\n__pycache__/\n*.py[cod]\n.env\ndist/\n
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+dist/
+*.vscode
